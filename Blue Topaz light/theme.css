@@ -191,7 +191,7 @@
     --b3-vditor-inline-mark-background: #ffe955;
     --b3-vditor-inline-mark-color: #202124;
     --b3-vditor-inline-tag-color: #5f6368;
-    --b3-vditor-inline-blockref-color: #660e7a;
+    --b3-vditor-inline-blockref-color: #1d92ff;
 
 
     /*From blue topaz (obsidian)*/
@@ -282,7 +282,7 @@
     --file-list-background-files: #0474cf5b;
     --workplace-markdown: #ee9b00;
     --layout-tabbar: #000000;
-    --blockquote-color: #1d1d1d;
+    --blockquote-color: #e6e6e6;
     --link-color: #8cbae0;
   
     /*graph*/
@@ -445,7 +445,7 @@ blockquote {
     border-left: 5px solid !important;
     border-color: var(--b3-theme-primary) !important;
     background-color: var(--blockquote-color);
-    color: #b4b4b4 !important;
+    color: #000000 !important;
     padding: 10px 10px 10px 15px !important;
 }
 
